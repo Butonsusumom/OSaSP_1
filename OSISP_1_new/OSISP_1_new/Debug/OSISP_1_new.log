@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\ksusha\source\repos\osisp_1_new\osisp_1_new\source.cpp(120): warning C4101: 'wheelOffset': unreferenced local variable
+c:\users\ksusha\source\repos\osisp_1_new\osisp_1_new\source.cpp(288): warning C4101: 'hbm': unreferenced local variable
+c:\users\ksusha\source\repos\osisp_1_new\osisp_1_new\source.cpp(228): warning C4715: 'WindowProc': not all control paths return a value
+  OSISP_1_new.vcxproj -> C:\Users\Ksusha\Source\Repos\OSISP_1_new\Debug\OSISP_1_new.exe
